@@ -7,4 +7,7 @@ This is a repository for Dirty Code project by Valerio Foddai
 ## Prerequisites
 
 Node.js and npm are essential to Angular 2 development.
-##
+
+## Location
+
+#London #Milan 
